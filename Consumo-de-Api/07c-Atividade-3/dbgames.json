@@ -16,10 +16,10 @@
     },
     {
       "id": 0,
-      "produto": "Senaitrix",
-      "descricao": "Jogo de Trabalhar do Senai",
-      "foto": "banner3.PNG",
-      "preco": 10
+      "produto": "",
+      "descricao": "",
+      "foto": "",
+      "preco": 0
     }
   ]
 }
